@@ -1,0 +1,2 @@
+# HCEmojiDemo
+easy
