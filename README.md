@@ -5,10 +5,15 @@
 
 ##导航
 1、[功能](https://github.com/honeycao/HCEmojiDemo#)
+
 2、[使用方法](https://github.com/honeycao/HCEmojiDemo#使用方法)
+
 3、[Demo使用](https://github.com/honeycao/HCEmojiDemo#Demo使用)
+
 4、[后期改进](https://github.com/honeycao/HCEmojiDemo#后期改进)
+
 5、[Q-A](https://github.com/honeycao/HCEmojiDemo#Q-A)
+
 6、[备注](https://github.com/honeycao/HCEmojiDemo#备注)
 
 ------
