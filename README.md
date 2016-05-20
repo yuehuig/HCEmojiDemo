@@ -1,6 +1,6 @@
 # HCEmojiDemo
 在系统键盘上添加的一个表情键盘，类型和功能差不多和微信、qq类似，做到了和系统键盘真正相容，低耦合度，且调用简单，全封装，接口清晰，代码易懂。
-
+![image](https://github.com/honeycao/ScanDemo/blob/master/HCEmoji.gif) 
 ------
 
 ##导航
